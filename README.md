@@ -55,7 +55,3 @@ Notes & Next steps
 - Add export/import endpoints for profile JSON as described in the spec.
 - Add notifications (web push) and optional Electron wrapper for desktop packaging.
 
-If you want, I can now:
-- Turn the backend into a runnable Laravel project (run `composer create-project` here and merge files).
-- Add more complete frontend features (login/register pages, task editor, timeline layout).
-- Configure Docker + docker-compose for one-command local environment.
